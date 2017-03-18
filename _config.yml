@@ -112,7 +112,7 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "/img/timeline/spidertocat.png"
+  - image: "/img/timeline/ankit-1.png"
     date: "March 18, 2002"
     description: "Ankit is born"
   - image: "/img/timeline/ankit-15.jpg"
@@ -120,7 +120,7 @@ events:
     description: "Happy 15th Birthday!"
   - image: "/img/timeline/billionaire.png"
     date: "Future"
-    description: "Ankit becomes youngest billionaire in history."
+    description: "Ankit becomes the youngest billionaire in history."
 # First image of the Timeline
 
 timeline-img: "/img/timeline/default.jpg"
